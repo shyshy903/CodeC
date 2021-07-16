@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.ipynb": "python",
         "unordered_set": "cpp",
         "array": "cpp",
         "*.tcc": "cpp",
@@ -35,7 +36,8 @@
         "numeric": "cpp",
         "stdexcept": "cpp",
         "utility": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "list": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.dimInactiveRegions": true
