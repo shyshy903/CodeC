@@ -37,7 +37,13 @@
         "stdexcept": "cpp",
         "utility": "cpp",
         "typeinfo": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "xstring": "cpp",
+        "queue": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "xlocinfo": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.dimInactiveRegions": true
